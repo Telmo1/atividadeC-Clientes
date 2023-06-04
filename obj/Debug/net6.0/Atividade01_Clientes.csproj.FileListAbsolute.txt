@@ -1,0 +1,15 @@
+C:\Users\yrtel\OneDrive\Área de Trabalho\Atividade01_Clientes\bin\Debug\net6.0\Atividade01_Clientes.exe
+C:\Users\yrtel\OneDrive\Área de Trabalho\Atividade01_Clientes\bin\Debug\net6.0\Atividade01_Clientes.deps.json
+C:\Users\yrtel\OneDrive\Área de Trabalho\Atividade01_Clientes\bin\Debug\net6.0\Atividade01_Clientes.runtimeconfig.json
+C:\Users\yrtel\OneDrive\Área de Trabalho\Atividade01_Clientes\bin\Debug\net6.0\Atividade01_Clientes.dll
+C:\Users\yrtel\OneDrive\Área de Trabalho\Atividade01_Clientes\bin\Debug\net6.0\Atividade01_Clientes.pdb
+C:\Users\yrtel\OneDrive\Área de Trabalho\Atividade01_Clientes\obj\Debug\net6.0\Atividade01_Clientes.csproj.AssemblyReference.cache
+C:\Users\yrtel\OneDrive\Área de Trabalho\Atividade01_Clientes\obj\Debug\net6.0\Atividade01_Clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yrtel\OneDrive\Área de Trabalho\Atividade01_Clientes\obj\Debug\net6.0\Atividade01_Clientes.AssemblyInfoInputs.cache
+C:\Users\yrtel\OneDrive\Área de Trabalho\Atividade01_Clientes\obj\Debug\net6.0\Atividade01_Clientes.AssemblyInfo.cs
+C:\Users\yrtel\OneDrive\Área de Trabalho\Atividade01_Clientes\obj\Debug\net6.0\Atividade01_Clientes.csproj.CoreCompileInputs.cache
+C:\Users\yrtel\OneDrive\Área de Trabalho\Atividade01_Clientes\obj\Debug\net6.0\Atividade01_Clientes.dll
+C:\Users\yrtel\OneDrive\Área de Trabalho\Atividade01_Clientes\obj\Debug\net6.0\refint\Atividade01_Clientes.dll
+C:\Users\yrtel\OneDrive\Área de Trabalho\Atividade01_Clientes\obj\Debug\net6.0\Atividade01_Clientes.pdb
+C:\Users\yrtel\OneDrive\Área de Trabalho\Atividade01_Clientes\obj\Debug\net6.0\Atividade01_Clientes.genruntimeconfig.cache
+C:\Users\yrtel\OneDrive\Área de Trabalho\Atividade01_Clientes\obj\Debug\net6.0\ref\Atividade01_Clientes.dll
